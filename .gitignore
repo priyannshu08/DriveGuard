@@ -19,3 +19,4 @@ docs/docs/python/constants.txt
 **/.vscode
 **/venv
 .venv/
+.venv/
